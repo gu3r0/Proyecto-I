@@ -1,0 +1,30 @@
+C:\Users\clases\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\clases\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\clases\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\clases\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\clases\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\clases\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\clases\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\clases\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\clases\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\clases\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+E:\PROGRAMACION 3\Proyecto I\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+E:\PROGRAMACION 3\Proyecto I\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+E:\PROGRAMACION 3\Proyecto I\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+E:\PROGRAMACION 3\Proyecto I\WindowsApplication1\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+E:\PROGRAMACION 3\Proyecto I\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+E:\PROGRAMACION 3\Proyecto I\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+E:\PROGRAMACION 3\Proyecto I\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\clases\Desktop\Proyecto I\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\clases\Desktop\Proyecto I\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\clases\Desktop\Proyecto I\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\clases\Desktop\Proyecto I\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\clases\Desktop\Proyecto I\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\clases\Desktop\Proyecto I\WindowsApplication1\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\clases\Desktop\Proyecto I\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\clases\Desktop\Proyecto I\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\clases\Desktop\Proyecto I\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\clases\Desktop\Proyecto I\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+F:\Proyecto I\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+F:\Proyecto I\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+F:\Proyecto I\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
